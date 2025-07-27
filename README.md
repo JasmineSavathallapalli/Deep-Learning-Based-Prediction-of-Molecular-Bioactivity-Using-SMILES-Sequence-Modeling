@@ -53,6 +53,6 @@ This project introduces a novel method by treating SMILES strings as character-l
 
 Developed by [**Jasmine Savathallapalli**](https://github.com/jasminesavathallapalli)  
 
-## 📄 License
+##  License
 
 This project is intended for academic and research use.
